@@ -1,0 +1,13 @@
+Inventories:
+  PvP:
+    Knife: '&c&lTodesklinge'
+    GoldenApple: '&6&lDopemittel'
+    Leave: '&c&lVerlassen'
+
+  Grief:
+    Shovel: '&c&lSchaufel'
+    Pickaxe: '&c&lSpitzhacke'
+    Axe: '&c&lAxt'
+
+  Default:
+    Compass: '&a&lKompass'

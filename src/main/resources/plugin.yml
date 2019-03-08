@@ -1,0 +1,16 @@
+name: Community
+version: 2.0
+main: de.slowloris.community.v2.core.Main
+author: Weichtier
+commands:
+  community:
+  set:
+  spawn:
+  edit:
+  fly:
+  vanish:
+    aliases:
+      - v
+  event:
+    aliases:
+      - e

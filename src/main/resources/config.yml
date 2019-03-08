@@ -1,0 +1,42 @@
+
+#    _________                                     .__  __
+#    \_   ___ \  ____   _____   _____  __ __  ____ |__|/  |_ ___.__.
+#    /    \  \/ /  _ \ /     \ /     \|  |  \/    \|  \   __<   |  |
+#    \     \___(  <_> )  Y Y  \  Y Y  \  |  /   |  \  ||  |  \___  |
+#    \______  /\____/|__|_|  /__|_|  /____/|___|  /__||__|  / ____|
+#    \/             \/      \/           \/          \/
+#
+#    by Weichtier
+#
+#    https://www.slowloris.de/
+#
+#
+
+Config:
+  Prefix: '&a&lCommunity &8| &7'
+
+  Scoreboard:
+    Title: '&a&lCommunity'
+    Lines:
+      - '&e&lWillkommen'
+      - '&a'
+      - '&8Spieler Online:'
+      - '&e&l%ONLINE%&8&l/&e&l%MAX%'
+      - '&e'
+      - '&6Event:'
+      - '&e&l%EVENT%'
+
+  Inventory:
+    Compass:
+      Name: '&a&lCommunity'
+      Item:
+        Spawn: '&c&lSpawn'
+        PvP: '&c&lPvP Beitreten'
+
+    Event:
+      Name: '&a&lEvent'
+      Item:
+        Select: '&7&lAuswählen: &6&l%EVENT%'
+        Actual: '&6&l%EVENT%'
+        Stop: '&c&lStoppen'
+        Stopped: '&c&lGestoppt'

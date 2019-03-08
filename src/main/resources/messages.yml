@@ -1,0 +1,30 @@
+#
+#
+#   Prefix will be added automatically!
+#
+#
+
+Message:
+
+  ONLY_PLAYERS: '&cDieser Befehl ist nur für Spieler!'
+  NO_PERMISSION: '&cDazu hast du keine Rechte!'
+  WRONG_SYNTAX: '&cFalscher Syntax! Bitte schau dir die &aDocs &c an!'
+  PLAYER_OFFLINE: '&cDieser Spieler ist offline!'
+
+  USER_JOIN: '&6 %PLAYER% &7hat das Spiel &abetreten!'
+  USER_QUIT: '&6 %PLAYER% &7hat das Spiel &cverlassen!'
+  CHAT_FORMAT: '%PLAYER% &8>> &7%MESSAGE%'
+
+  LOCATION_SET: '&7Du hast die Location gesetzt!'
+  EDITMODE_ON: '&7Du hast den Edit Modus &abetreten&7! &e&lGehe vorsichtig mit ihm um!'
+  EDITMODE_OFF: '&7Du hast den Edit Modus &cverlasen!'
+  EDITMODE_ON_OTHER: '&6%PLAYER% &7ist nun im Edit Modus'
+  EDITMODE_OFF_OTHER: '&6%PLAYER% &7ist nun nicht mehr im Edit Modus'
+  FLY_ON: '&7Du hast den Flug Modus &betreten!'
+  FLY_OFF: '&7Du hast den Flug Modus &cverlassen!'
+  FLY_ON_OTHER: '&6%PLAYER% &7ist nun im Flug Modus'
+  FLY_OFF_OTHER: '&6%PLAYER% &7ist nun nicht mehr im Flug Modus'
+  VANISH_ON: '&7Du hast den Vanish Modus &abetreten!'
+  VANISH_OFF: '&7Du hast den Vanish Modus &cverlassen!'
+  VANISH_ON_OTHER: '&6%PLAYER% &7ist nun im Vanish Modus'
+  VANISH_OFF_OTHER: '&6%PLAYER% &7ist nun nicht mehr im Vanish Modus'

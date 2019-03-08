@@ -1,0 +1,15 @@
+Rank:
+  0:
+    permission: 'rank.admin'
+    chat: '&4&lAdmin &8| &7'
+    tab:  '&4&lA &8| &7'
+
+  1:
+    permission: 'rank.premium'
+    chat: '&6Premium &8| &7'
+    tab:  '&6P &8| &7'
+
+  2:
+    permission: 'rank.member'
+    chat: '&7Spieler &8| &7'
+    tab:  '&7S &8| &7'
